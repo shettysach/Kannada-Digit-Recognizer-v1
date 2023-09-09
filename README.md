@@ -17,3 +17,7 @@ pip install -r requirements.txt
 * ![OpenCV](https://pypi.org/project/opencv-python/)
 * ![CustomTKinter](https://github.com/TomSchimansky/CustomTkinter)
 * ![TKinter](https://docs.python.org/3/library/tkinter.html)
+
+
+## Instructions -
+* Run either of the Jupyter notebooks - GUI_CustomTkinter.ipynb / GUI_Tkinter.ipynb 
