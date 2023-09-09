@@ -21,3 +21,6 @@ pip install -r requirements.txt
 
 ## Instructions -
 * Run either of the Jupyter notebooks - GUI_CustomTkinter.ipynb / GUI_Tkinter.ipynb 
+
+#### Data - https://www.kaggle.com/competitions/Kannada-MNIST/data
+#### Notebook used as reference - https://www.kaggle.com/code/shahules/indian-way-to-learn-cnn
