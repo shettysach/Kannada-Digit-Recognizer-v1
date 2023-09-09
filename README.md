@@ -8,10 +8,10 @@ CustomTKinter/TKinter are used to provide the GUI and OpenCV is used to read inp
 ```bash
 pip install -r requirements.txt
 ```
-* ![Tensorflow (Keras)](https://www.tensorflow.org/install)
-* ![OpenCV](https://pypi.org/project/opencv-python/)
-* ![CustomTKinter](https://github.com/TomSchimansky/CustomTkinter)
-* ![TKinter](https://docs.python.org/3/library/tkinter.html)
+* [Tensorflow (Keras)](https://www.tensorflow.org/install)
+* [OpenCV](https://pypi.org/project/opencv-python/)
+* [CustomTKinter](https://github.com/TomSchimansky/CustomTkinter)
+* [TKinter](https://docs.python.org/3/library/tkinter.html)
 
 
 ## Instructions -
