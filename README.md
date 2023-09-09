@@ -9,6 +9,11 @@ CustomTKinter/TKinter are used to provide the GUI and OpenCV is used to read inp
   <img src="https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/CTK.gif">
 </p>
 
+<h3 align="center"> TKinter GUI </h3>
+<p align="center">
+  <img src="https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/TK.gif">
+</p>
+
 ## Requirements -
 ```bash
 pip install -r requirements.txt
