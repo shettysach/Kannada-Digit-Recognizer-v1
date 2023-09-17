@@ -17,15 +17,11 @@ pip install -r requirements.txt
 ## Instructions -
 * Run either of the Jupyter notebooks - GUI_CustomTkinter.ipynb / GUI_Tkinter.ipynb 
 
-<h3 align="center"> CustomTKinter GUI </h3>
-<p align="center">
-  <img src="https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/CTK.gif">
-</p>
+### CustomTKinter GUI
+![CTK](https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/CTK.gif)
 
-<h3 align="center"> TKinter GUI </h3>
-<p align="center">
-  <img src="https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/TK.gif">
-</p>
+### TKinter GUI
+![TK](https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/TK.gif)
 
 #### Data - https://www.kaggle.com/competitions/Kannada-MNIST/data
 #### Notebook used as reference - https://www.kaggle.com/code/shahules/indian-way-to-learn-cnn
