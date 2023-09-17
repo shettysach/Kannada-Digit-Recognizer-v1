@@ -18,7 +18,7 @@ pip install -r requirements.txt
 * Run either of the Jupyter notebooks - GUI_CustomTkinter.ipynb / GUI_Tkinter.ipynb 
 
 ### CustomTKinter GUI
-![CTK](https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/CTK.gif)
+![CTK](https://github.com/ShettySach/Kannada-Digit-Recognizer/assets/132273464/2e3c5d64-b138-40ae-bb6a-5978b7d7f2ed)
 
 ### TKinter GUI
 ![TK](https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/TK.gif)
