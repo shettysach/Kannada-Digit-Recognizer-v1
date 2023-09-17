@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ![CTK](https://github.com/ShettySach/Kannada-Digit-Recognizer/assets/132273464/2e3c5d64-b138-40ae-bb6a-5978b7d7f2ed)
 
 ### TKinter GUI
-![TK](https://github.com/ShettySach/Kannada-Digit-Recognizer/blob/main/img/TK.gif)
+![TK](https://github.com/ShettySach/Kannada-Digit-Recognizer/assets/132273464/6048ec82-7a56-4155-8097-4d21eecbbacc)
 
 #### Data - https://www.kaggle.com/competitions/Kannada-MNIST/data
 #### Notebook used as reference - https://www.kaggle.com/code/shahules/indian-way-to-learn-cnn
