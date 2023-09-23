@@ -2,7 +2,7 @@
 
 Using a Convolutional Neural Network (CNN) to identify the Kannada numerical digits.</br>
 Tensorflow (Keras) is used to create, train and load the neural network model.</br>
-CustomTKinter/TKinter are used to provide the GUI and OpenCV is used to read input form the GUI.</br>
+CustomTKinter/TKinter are used to provide the GUI and OpenCV is used to read input from the GUI.</br>
 
 ## Requirements -
 ```bash
