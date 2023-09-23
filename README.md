@@ -1,4 +1,4 @@
-# Kannada-Digit-Recognizer
+# Kannada-Digit-Recognizer-v1
 
 Using a Convolutional Neural Network (CNN) to identify the Kannada numerical digits.</br>
 Tensorflow (Keras) is used to create, train and load the neural network model.</br>
