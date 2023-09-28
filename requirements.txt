@@ -1,4 +1,6 @@
 tensorflow<2.11
 opencv-python==4.8.0.76
-numpy
 customtkinter
+pillow
+numpy
+pandas
