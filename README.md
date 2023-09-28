@@ -10,12 +10,12 @@ CustomTKinter/TKinter are used to provide the GUI and OpenCV is used to read inp
 ```bash
 pip install -r requirements.txt
 ```
-* Tensorflow (Feras)
+* Tensorflow (Keras)
 * OpenCV
+* Pillow (PIL)
+* Pandas
 * Numpy
 * CustomTkinter
-* Tkinter
-
 
 ## Instructions -
 * Run either of the Jupyter notebooks - GUI_CustomTkinter.ipynb / GUI_Tkinter.ipynb 
